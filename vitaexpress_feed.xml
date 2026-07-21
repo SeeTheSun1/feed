@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-07-20 05:12">
+<yml_catalog date="2026-07-21 04:54">
   <shop>
     <name>Аптека Вита</name>
     <company>Сеть аптек Вита</company>
@@ -19,33 +19,23 @@
       <category id="9">Препараты от никотиновой зависимости</category>
     </categories>
     <offers>
-      <offer available="true" id="206986">
-        <url>https://vitaexpress.ru/product/supradin_immuno_vitamin_s_tab__ship___15_bad/</url>
-        <price>759</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/206986.webp?v=1784513336</picture>
-        <name>Супрадин Иммуно Витамин С таблетки шипучие, №15</name>
-        <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
-        <vendor>Супрадин</vendor>
-      </offer>
-      <offer available="true" id="197932">
-        <url>https://vitaexpress.ru/product/supradin_tab__shipuch___10/</url>
-        <price>956</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/197932.webp?v=1784513336</picture>
-        <name>Супрадин таблетки шипучие, №10</name>
-        <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
-        <vendor>Супрадин</vendor>
-      </offer>
       <offer available="true" id="198371">
         <url>https://vitaexpress.ru/product/supradin_multivitaminy_aktiv_tab__shipuch___15_bad/</url>
         <price>1149</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/198371.webp?v=1784513337</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/198371.webp?v=1784598712</picture>
         <name>Супрадин Мультивитамины Актив таблетки шипучие, №15</name>
+        <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
+        <vendor>Супрадин</vendor>
+      </offer>
+      <offer available="true" id="206986">
+        <url>https://vitaexpress.ru/product/supradin_immuno_vitamin_s_tab__ship___15_bad/</url>
+        <price>759</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/206986.webp?v=1784598712</picture>
+        <name>Супрадин Иммуно Витамин С таблетки шипучие, №15</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
@@ -54,7 +44,7 @@
         <price>1594</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/204883.webp?v=1784513344</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/204883.webp?v=1784598712</picture>
         <name>Супрадин таблетки покрыт. п/о, №30</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -64,7 +54,7 @@
         <price>1515</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/197935.webp?v=1784513345</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/197935.webp?v=1784598719</picture>
         <name>Супрадин таблетки шипучие, №20</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -74,7 +64,7 @@
         <price>1745</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207013.webp?v=1784513353</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207013.webp?v=1784598723</picture>
         <name>Супрадин Кидс Рыбки пастилки жевательные, №60</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -84,7 +74,7 @@
         <price>2335</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/180744.webp?v=1784513354</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/180744.webp?v=1784598728</picture>
         <name>Супрадин Кидс Иммуно пастилки жевательные, №60</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -94,7 +84,7 @@
         <price>1879</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202394.webp?v=1784513356</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202394.webp?v=1784598729</picture>
         <name>Супрадин Иммуно Тройное действие таблетки шипучие, №30</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -104,7 +94,7 @@
         <price>1197</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207012.webp?v=1784513362</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207012.webp?v=1784598733</picture>
         <name>Супрадин Кидс Рыбки пастилки жевательные, №30</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -114,7 +104,7 @@
         <price>1515</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/180743.webp?v=1784513364</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/180743.webp?v=1784598736</picture>
         <name>Супрадин Кидс Иммуно пастилки жевательные, №30</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -124,7 +114,7 @@
         <price>1225</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/199759.webp?v=1784513366</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/199759.webp?v=1784598739</picture>
         <name>Супрадин Иммуно Тройное действие таблетки шипучие, №15</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -134,7 +124,7 @@
         <price>1497</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/203139.webp?v=1784513370</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/203139.webp?v=1784598742</picture>
         <name>Супрадин Иммуно Про таблетки шипучие, №15</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -144,7 +134,7 @@
         <price>2049</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/209508.webp?v=1784513373</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/209508.webp?v=1784598745</picture>
         <name>Супрадин Кидс Мишки пастилки жевательные, №60</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -154,7 +144,7 @@
         <price>1297</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/209509.webp?v=1784513376</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/209509.webp?v=1784598748</picture>
         <name>Супрадин Кидс Мишки пастилки жевательные, №30</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -164,7 +154,7 @@
         <price>829</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/172369.webp?v=1784513380</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/172369.webp?v=1784598752</picture>
         <name>Супрадин Иммуно Форте саше, №14</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -174,7 +164,7 @@
         <price>829</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/203140.webp?v=1784513384</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/203140.webp?v=1784598755</picture>
         <name>Супрадин Иммуно Про таблетки шипучие, №30</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
@@ -184,7 +174,7 @@
         <price>497</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207982.webp?v=1784513387</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207982.webp?v=1784598759</picture>
         <name>Мирамистин раствор с распылителем 0,01%, 50мл</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -194,7 +184,7 @@
         <price>683</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/208006.webp?v=1784513390</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/208006.webp?v=1784598762</picture>
         <name>Мирамистин раствор с распылителем 0,01%, 150мл</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -204,7 +194,7 @@
         <price>446</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/208314.webp?v=1784513394</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/208314.webp?v=1784598766</picture>
         <name>Мирамистин раствор с аппликатором урологическим 0,01%, 50мл</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -214,7 +204,7 @@
         <price>1597</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207983.webp?v=1784513398</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207983.webp?v=1784598769</picture>
         <name>Мирамистин раствор для местного применения 0,01%, 500мл</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -224,7 +214,7 @@
         <price>466</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/191497.webp?v=1784513401</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/191497.webp?v=1784598773</picture>
         <name>Мирамистин суппозитории вагинальные 15мг, №10</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -234,7 +224,7 @@
         <price>1597</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/155481.webp?v=1784513405</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/155481.webp?v=1784598778</picture>
         <name>Мирамистин раствор для местного применения 0,01%, 500мл</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -244,7 +234,7 @@
         <price>423</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/184842.webp?v=1784513408</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/184842.webp?v=1784598780</picture>
         <name>Мирамистин мазь для местного и наружного применения 0,5%, 30г</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -254,7 +244,7 @@
         <price>592</price>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/177619.webp?v=1784513411</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/177619.webp?v=1784598784</picture>
         <name>Мирамистин раствор для местного применения насадка гинекол. 0,01%, 50мл</name>
         <description>Мирамистин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мирамистин</vendor>
@@ -264,7 +254,7 @@
         <price>1790</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/205588.webp?v=1784513416</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/205588.webp?v=1784598787</picture>
         <name>Купить капли Иберогаст 100мл в аптеке «Вита».</name>
         <description>Иберогаст в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Иберогаст</vendor>
@@ -274,7 +264,7 @@
         <price>1097</price>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/205587.webp?v=1784513418</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/205587.webp?v=1784598791</picture>
         <name>Купить капли Иберогаст 50мл в аптеке «Вита».</name>
         <description>Иберогаст в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Иберогаст</vendor>
@@ -284,7 +274,7 @@
         <price>1089</price>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201872.webp?v=1784513421</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201872.webp?v=1784598793</picture>
         <name>Купить таблетки Эриус №10 в аптеке «Вита».</name>
         <description>Эриус в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Эриус</vendor>
@@ -294,7 +284,7 @@
         <price>1096</price>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/205607.webp?v=1784513425</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/205607.webp?v=1784598796</picture>
         <name>Купить раствор Эриус 60мл в аптеке «Вита».</name>
         <description>Эриус в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Эриус</vendor>
@@ -304,7 +294,7 @@
         <price>1797</price>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/204882.webp?v=1784513427</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/204882.webp?v=1784598799</picture>
         <name>Купить таблетки Эриус №20 в аптеке «Вита».</name>
         <description>Эриус в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Эриус</vendor>
@@ -315,7 +305,7 @@
         <oldprice>551</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202910.webp?v=1784513430</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202910.webp?v=1784598802</picture>
         <name>Мотилегаз Форте капсулы 120мг, №20</name>
         <description>Мотилегаз Форте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мотилегаз Форте</vendor>
@@ -325,7 +315,7 @@
         <price>925</price>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202097.webp?v=1784513434</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202097.webp?v=1784598805</picture>
         <name>Мотилегаз Форте капсулы 120мг, №40</name>
         <description>Мотилегаз Форте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мотилегаз Форте</vendor>
@@ -335,7 +325,7 @@
         <price>1619</price>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200880.webp?v=1784513437</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200880.webp?v=1784598808</picture>
         <name>Микролакс раствор д/рект.введ. (микроклизма), 5мл №12</name>
         <description>Микролакс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Микролакс</vendor>
@@ -345,7 +335,7 @@
         <price>697</price>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201643.webp?v=1784513440</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201643.webp?v=1784598811</picture>
         <name>Микролакс раствор (микроклизма) для детей, 5мл №4</name>
         <description>Микролакс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Микролакс</vendor>
@@ -356,17 +346,17 @@
         <oldprice>804</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200879.webp?v=1784513442</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200879.webp?v=1784598814</picture>
         <name>Микролакс раствор д/рект.введ. (микроклизма), 5мл №4</name>
         <description>Микролакс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Микролакс</vendor>
       </offer>
       <offer available="true" id="168109">
         <url>https://vitaexpress.ru/product/mikrolaks_r_r_dlya_rekt_vved_d_detey_mikroklizma_5ml_4/</url>
-        <price>697</price>
+        <price>699</price>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/168109.webp?v=1784513449</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/168109.webp?v=1784598820</picture>
         <name>Микролакс раствор (микроклизма) для детей, 5мл №4</name>
         <description>Микролакс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Микролакс</vendor>
@@ -377,7 +367,7 @@
         <oldprice>689</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202019.webp?v=1784513451</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202019.webp?v=1784598823</picture>
         <name>Метрогил Дента гель стоматологический для десен, 20г</name>
         <description>Метрогил Дента в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Метрогил Дента</vendor>
@@ -387,7 +377,7 @@
         <price>274</price>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201733.webp?v=1784513454</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201733.webp?v=1784598825</picture>
         <name>Имодиум Экспресс таблетки лиоф. 2мг, №10</name>
         <description>Имодиум Экспресс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Имодиум Экспресс</vendor>
@@ -397,7 +387,7 @@
         <price>494</price>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200881.webp?v=1784513457</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200881.webp?v=1784598828</picture>
         <name>Имодиум Экспресс таблетки лиоф. 2мг, №20</name>
         <description>Имодиум Экспресс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Имодиум Экспресс</vendor>
@@ -407,7 +397,7 @@
         <price>185</price>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201645.webp?v=1784513460</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201645.webp?v=1784598831</picture>
         <name>Имодиум Экспресс таблетки лиоф. 2мг, №6</name>
         <description>Имодиум Экспресс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Имодиум Экспресс</vendor>
@@ -417,7 +407,7 @@
         <price>185</price>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/176352.webp?v=1784513463</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/176352.webp?v=1784598834</picture>
         <name>Имодиум Экспресс таблетки лиоф. 2мг, №6</name>
         <description>Имодиум Экспресс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Имодиум Экспресс</vendor>
@@ -427,7 +417,7 @@
         <price>1011</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201218.webp?v=1784513466</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201218.webp?v=1784598837</picture>
         <name>Никоретте резинка жевательная от курения 4мг, №30</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -437,7 +427,7 @@
         <price>1225</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200553.webp?v=1784513470</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200553.webp?v=1784598840</picture>
         <name>Никоретте жевательная резинка от курения 4мг, №30</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -447,7 +437,7 @@
         <price>2108</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201890.webp?v=1784513472</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201890.webp?v=1784598843</picture>
         <name>Никоретте спрей д/местн. прим. мятный 1мг/доза, №1</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -457,7 +447,7 @@
         <price>1197</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202465.webp?v=1784513475</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202465.webp?v=1784598846</picture>
         <name>Никоретте резинка жевательная от курения 4мг, №30</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -467,7 +457,7 @@
         <price>2097</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201219.webp?v=1784513479</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201219.webp?v=1784598849</picture>
         <name>Никоретте спрей д/местн. прим. 1мг/доза, №1</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -477,7 +467,7 @@
         <price>3403</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200999.webp?v=1784513482</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200999.webp?v=1784598852</picture>
         <name>Никоретте спрей д/местн. прим. 1мг/доза, №2</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -487,7 +477,7 @@
         <price>2199</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202409.webp?v=1784513485</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/202409.webp?v=1784598854</picture>
         <name>Никоретте пластырь трансдермальный 25мг/16ч, №7. 1 этап</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -497,7 +487,7 @@
         <price>3403</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201015.webp?v=1784513487</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201015.webp?v=1784598858</picture>
         <name>Никоретте спрей д/местн. прим. мятный 1мг/доза, №2</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -507,7 +497,7 @@
         <price>1069</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200882.webp?v=1784513491</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200882.webp?v=1784598861</picture>
         <name>Никоретте резинка жевательная от курения 2мг, №30</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -517,7 +507,7 @@
         <price>1081</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/203452.webp?v=1784513494</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/203452.webp?v=1784598864</picture>
         <name>Никоретте резинка жевательная от курения 2мг, №30</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -527,7 +517,7 @@
         <price>1079</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200883.webp?v=1784513496</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200883.webp?v=1784598866</picture>
         <name>Никоретте резинка жевательная от курения 2мг, №30</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -537,7 +527,7 @@
         <price>2199</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200884.webp?v=1784513499</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200884.webp?v=1784598870</picture>
         <name>Никоретте пластырь трансдермальный 10мг/16ч, №7. 3 этап</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -547,7 +537,7 @@
         <price>2199</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201978.webp?v=1784513503</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/201978.webp?v=1784598872</picture>
         <name>Никоретте пластырь трансдермальный 15мг/16ч, №7. 2 этап</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -557,7 +547,7 @@
         <price>2961</price>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200685.webp?v=1784513506</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200685.webp?v=1784598875</picture>
         <name>Никоретте резинка жевательная от курения 4мг, №105</name>
         <description>Никоретте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Никоретте</vendor>
@@ -568,7 +558,7 @@
         <oldprice>689</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/180958.webp?v=1784513508</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/180958.webp?v=1784598878</picture>
         <name>Фенистил гель д/наружн. прим. 0,1%, 30г</name>
         <description>Фенистил в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Фенистил</vendor>
@@ -579,7 +569,7 @@
         <oldprice>919</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/179415.webp?v=1784513512</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/179415.webp?v=1784598881</picture>
         <name>Фенистил гель д/наружн. прим. 0,1%, 50г</name>
         <description>Фенистил в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Фенистил</vendor>
@@ -590,7 +580,7 @@
         <oldprice>739</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/179626.webp?v=1784513515</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/179626.webp?v=1784598884</picture>
         <name>Фенистил капли д/приема внутрь 1мг/мл, 20мл</name>
         <description>Фенистил в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Фенистил</vendor>
@@ -601,7 +591,7 @@
         <oldprice>749</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/182434.webp?v=1784513518</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/182434.webp?v=1784598887</picture>
         <name>Фенистил эмульсия д/наружн. прим. 0,1%, 8мл</name>
         <description>Фенистил в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Фенистил</vendor>
