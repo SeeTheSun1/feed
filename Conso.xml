@@ -1,0 +1,37 @@
+<yml_catalog date="2026-08-03">
+<shop>
+<name>CONSO</name>
+<company>Официальный интернет-магазин женской одежды CONSO</company>
+<url>https://conso.ru/</url>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Официальный интернет-магазин</category>
+</categories>
+<offers>
+<offer id="99999990358" type="vendor.model" available="true">
+<price>999</price>
+<currencyId>RUR</currencyId>
+<url>https://conso.ru/</url>
+<categoryId>1</categoryId>
+<vendor>Conso</vendor>
+<typePrefix>Официальный интернет-магазин</typePrefix>
+<model>conso</model>
+<name>Официальный интернет-магазин женской одежды CONSO</name>
+<description>Одежда для стильных женщин. Бесплатная доставка с примеркой при выкупе от 6000 руб.</description>
+</offer>
+<offer id="99999990359" type="vendor.model" available="true">
+<price>999</price>
+<currencyId>RUR</currencyId>
+<url>https://conso.ru/</url>
+<categoryId>1</categoryId>
+<vendor>Conso</vendor>
+<typePrefix>Официальный интернет-магазин</typePrefix>
+<model>Консо</model>
+<name>Официальный интернет-магазин женской одежды CONSO</name>
+<description>Одежда для стильных женщин. Бесплатная доставка с примеркой при выкупе от 6000 руб.</description>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
