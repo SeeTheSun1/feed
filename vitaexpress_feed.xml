@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-12 08:03">
+<yml_catalog date="2026-11-13 07:18">
   <shop>
     <name>Аптека Вита</name>
     <company>Сеть аптек Вита</company>
@@ -84,12 +84,12 @@
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
-      <offer available="true" id="203140">
+      <offer available="true" id="213139">
         <url>https://vitaexpress.ru/product/supradin_immuno_pro_tab__ship___30_bad/</url>
         <price>2345</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/203140.webp</picture>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/213139.webp</picture>
         <name>Супрадин Иммуно Про таблетки шипучие, №30</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
