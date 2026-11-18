@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-17 08:53">
+<yml_catalog date="2026-11-18 08:18">
   <shop>
     <name>Аптека Вита</name>
     <company>Сеть аптек Вита</company>
@@ -41,17 +41,6 @@
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
-      <offer available="true" id="197935">
-        <url>https://vitaexpress.ru/product/supradin_tab__shipuch___20/</url>
-        <price>1381</price>
-        <oldprice>1625</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/197935.webp</picture>
-        <name>Супрадин таблетки шипучие, №20</name>
-        <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
-        <vendor>Супрадин</vendor>
-      </offer>
       <offer available="true" id="207013">
         <url>https://vitaexpress.ru/product/supradin_kids_rybki_past__zhev___60_bad/</url>
         <price>1512</price>
@@ -60,6 +49,17 @@
         <categoryId>1</categoryId>
         <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207013.webp</picture>
         <name>Супрадин Кидс Рыбки пастилки жевательные, №60</name>
+        <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
+        <vendor>Супрадин</vendor>
+      </offer>
+      <offer available="true" id="197935">
+        <url>https://vitaexpress.ru/product/supradin_tab__shipuch___20/</url>
+        <price>1381</price>
+        <oldprice>1625</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/197935.webp</picture>
+        <name>Супрадин таблетки шипучие, №20</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
@@ -113,6 +113,16 @@
         <name>Мотилегаз Форте капсулы 120мг, №20</name>
         <description>Мотилегаз Форте в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Мотилегаз Форте</vendor>
+      </offer>
+      <offer available="true" id="200880">
+        <url>https://vitaexpress.ru/product/mikrolaks_r_r_drekt__vved__5ml__12_mikroklizma/</url>
+        <price>1719</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/200880.webp</picture>
+        <name>Микролакс раствор д/рект.введ. (микроклизма), 5мл №12</name>
+        <description>Микролакс в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
+        <vendor>Микролакс</vendor>
       </offer>
       <offer available="true" id="200879">
         <url>https://vitaexpress.ru/product/mikrolaks_r_r_drekt__vved__5ml__4_mikroklizma/</url>
