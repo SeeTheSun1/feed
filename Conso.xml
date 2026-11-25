@@ -18,8 +18,8 @@
 <vendor>Conso</vendor>
 <typePrefix>Официальный интернет-магазин</typePrefix>
 <model>conso</model>
-<name>Официальный интернет-магазин женской одежды CONSO</name>
-<description>Одежда для стильных женщин. Бесплатная доставка с примеркой по России</description>
+<name>Скидки до 50% в официальном интернет-магазине CONSO</name>
+<description>Черная пятница! Одежда для стильных женщин. Бесплатная доставка с примеркой по России</description>
 </offer>
 <offer id="99999990359" type="vendor.model" available="true">
 <price>999</price>
@@ -29,8 +29,8 @@
 <vendor>Conso</vendor>
 <typePrefix>Официальный интернет-магазин</typePrefix>
 <model>Консо</model>
-<name>Официальный интернет-магазин женской одежды CONSO</name>
-<description>Одежда для стильных женщин. Бесплатная доставка с примеркой по России</description>
+<name>Скидки до 50% в официальном интернет-магазине CONSO</name>
+<description>Черная пятница! Одежда для стильных женщин. Бесплатная доставка с примеркой по России</description>
 </offer>
 </offers>
 </shop>
