@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-26 09:08">
+<yml_catalog date="2026-11-27 09:00">
   <shop>
     <name>Аптека Вита</name>
     <company>Сеть аптек Вита</company>
@@ -19,17 +19,6 @@
       <category id="9">Препараты от никотиновой зависимости</category>
     </categories>
     <offers>
-      <offer available="true" id="197932">
-        <url>https://vitaexpress.ru/product/supradin_tab__shipuch___10/</url>
-        <price>739</price>
-        <oldprice>924</oldprice>
-        <currencyId>RUB</currencyId>
-        <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/197932.webp</picture>
-        <name>Супрадин таблетки шипучие, №10</name>
-        <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
-        <vendor>Супрадин</vendor>
-      </offer>
       <offer available="true" id="206986">
         <url>https://vitaexpress.ru/product/supradin_immuno_vitamin_s_tab__ship___15_bad/</url>
         <price>781</price>
@@ -41,14 +30,14 @@
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
-      <offer available="true" id="207013">
-        <url>https://vitaexpress.ru/product/supradin_kids_rybki_past__zhev___60_bad/</url>
-        <price>1512</price>
-        <oldprice>1779</oldprice>
+      <offer available="true" id="197932">
+        <url>https://vitaexpress.ru/product/supradin_tab__shipuch___10/</url>
+        <price>739</price>
+        <oldprice>924</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207013.webp</picture>
-        <name>Супрадин Кидс Рыбки пастилки жевательные, №60</name>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/197932.webp</picture>
+        <name>Супрадин таблетки шипучие, №10</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
@@ -63,13 +52,14 @@
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
-      <offer available="true" id="172369">
-        <url>https://vitaexpress.ru/product/supradin_immuno_forte_14/</url>
-        <price>779</price>
+      <offer available="true" id="207013">
+        <url>https://vitaexpress.ru/product/supradin_kids_rybki_past__zhev___60_bad/</url>
+        <price>1512</price>
+        <oldprice>1779</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/172369.webp</picture>
-        <name>Супрадин Иммуно Форте саше, №14</name>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/207013.webp</picture>
+        <name>Супрадин Кидс Рыбки пастилки жевательные, №60</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
@@ -81,6 +71,16 @@
         <categoryId>1</categoryId>
         <picture>https://static.vitaexpress.ru/public/images/webp_large_w/209509.webp</picture>
         <name>Супрадин Кидс Мишки пастилки жевательные, №30</name>
+        <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
+        <vendor>Супрадин</vendor>
+      </offer>
+      <offer available="true" id="172369">
+        <url>https://vitaexpress.ru/product/supradin_immuno_forte_14/</url>
+        <price>779</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.vitaexpress.ru/public/images/webp_large_w/172369.webp</picture>
+        <name>Супрадин Иммуно Форте саше, №14</name>
         <description>Супрадин в интернет-аптеке &quot;Вита&quot;. Выгодные цены. Акции и скидки.</description>
         <vendor>Супрадин</vendor>
       </offer>
